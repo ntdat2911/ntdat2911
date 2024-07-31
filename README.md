@@ -21,6 +21,7 @@ I am a dedicated and skilled software engineer with a strong background in front
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## 📊 **GitHub Stats**:
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ntdat2911)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ntdat2911&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdat2911&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
