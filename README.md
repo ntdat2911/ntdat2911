@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Dat Nguyen Tuan, and I'm a dedicated and skilled software engineer from Vietnam.</h2>
 
-💫 **About Me**:
-I am a dedicated and skilled software engineer with a strong background in frontend and backend development, experienced in creating scalable, high-quality web applications. With hands-on experience in modern technologies and methodologies, I have contributed to several projects, ranging from job search assistance systems to asset management applications. I am adept at working in Agile environments, leveraging tools like Next.js, Python, Spring Boot, and Azure to deliver robust solutions.
-
 ## 🌐 **Socials**:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pal.nguyen.7/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dat-nguyen-tuan-8b7b5a319/)
